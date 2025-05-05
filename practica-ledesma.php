@@ -21,7 +21,7 @@
 function saludar($nombre) {
     return "Hola, " . $nombre . "!";
 }
-
+//Comentario añadido para probar Git
 /**
  * Calcula el doble de un número.
  * 
